@@ -1,0 +1,20 @@
+==================== 2025-11-25 14:27:50.955215 | 6d59a25d-7d12-47be-892a-9f2d6c16db29 ====================
+14:27:50.956999 [info ]: Starting dbt LSP server
+14:27:50.957481 [info ]: Connecting to LSP client on port 8000
+14:27:50.969717 [info ]: Successfully connected to LSP client
+14:27:50.969750 [info ]: Creating LSP service...
+14:27:51.033542 [info ]: Creating LSP server...
+14:27:51.033584 [info ]: Starting LSP server...
+14:27:52.794084 [info ]: Cached model count updated: 2 models (estimate)
+14:27:53.175167 [info ]: Cached model count updated: 2 models (accurate)
+14:27:53.852459 [info ]: Cached model count updated: 2 models (accurate)
+==================== 2025-11-26 10:33:37.659781 | 34d394f8-abb3-4b27-9343-e7ac327f243c ====================
+10:33:37.659828 [info ]: Starting dbt LSP server
+10:33:37.659844 [info ]: Connecting to LSP client on port 8000
+10:33:37.664785 [info ]: Successfully connected to LSP client
+10:33:37.664818 [info ]: Creating LSP service...
+10:33:37.718836 [info ]: Creating LSP server...
+10:33:37.718865 [info ]: Starting LSP server...
+10:33:39.683049 [info ]: Cached model count updated: 2 models (estimate)
+10:33:39.882170 [info ]: Cached model count updated: 2 models (accurate)
+10:33:40.360324 [info ]: Cached model count updated: 2 models (accurate)
