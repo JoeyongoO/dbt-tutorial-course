@@ -1,7 +1,7 @@
 {{
 	config(
 		materialized='incremental',
-        incremental_strategy='microbatch',
+        incremental_strategy='merge',
         event_time="created_at",
         batch_size="day",
         lookback=2,
